@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int N, sum=0;
+    //Take input from the user
     cout<<"enter the value of N : ";
     cin>>N;
     for(int i=1; i<=N; i++){
